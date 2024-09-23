@@ -29,6 +29,11 @@ This is the App of the File Comparison Application built with **React** and **Ty
 4. **Access the application**:
     The app will be running on `http://localhost:3000`.
 
+5. **Run the Test cases**:
+    ```bash
+    npm test
+    ```
+
 ## File Structure
 
 ```
