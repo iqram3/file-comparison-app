@@ -13,7 +13,7 @@ This is the App of the File Comparison Application built with **React** and **Ty
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/iqram3/file-comparison-app
-    cd App
+    cd file-comparison-app
     ```
 
 2. **Install dependencies**:
@@ -71,7 +71,7 @@ This is the backend API for the File Comparison Application. It handles file upl
 
 ## Installation
 
-1. **Clone the repository**:
+1. **Change Directory**:
     ```bash
     Go to server folder
     cd server
