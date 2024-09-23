@@ -73,7 +73,7 @@ This is the backend API for the File Comparison Application. It handles file upl
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    Go to server folder
     cd server
     ```
 
